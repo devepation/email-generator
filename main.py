@@ -14,7 +14,7 @@ for name in namesl:
     names.append(name)
 #print(names)
 def doit():
-    return random.choice(names) + "@gmail.com"
+    return random.choice(names) + "@yahoo.com"
     
 while True:
     print(doit())
